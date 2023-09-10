@@ -11,6 +11,13 @@ fun main(){
 
     result=a>b
     println(result)
+
+    var w=10
+    
+    println(w++)
+    println(w)
+    println(++w)
+    println(w)
     
 
 }
