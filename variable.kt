@@ -1,5 +1,6 @@
 fun main(){
 
+    // val for constant value
     var v1=20;
     var v2="hello wolrld ";
     var v3=2023.5
@@ -12,6 +13,7 @@ fun main(){
     print(v3);
     print(v4);
     v4=false;
+   
     println(v4)
     println(vv)
 
